@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35ec0ffa-a2d6-46cc-be97-93d9bacdf608" name="Default Changelist" comment="2021年8月25日21:29:30">
+    <list default="true" id="35ec0ffa-a2d6-46cc-be97-93d9bacdf608" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +11,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Lowbeeky" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="JavaSenior" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -43,7 +49,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -73,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629891545200</updated>
-      <workItem from="1629891546989" duration="2505000" />
+      <workItem from="1629891546989" duration="2781000" />
     </task>
     <task id="LOCAL-00001" summary="2021年8月25日21:29:30">
       <created>1629898208462</created>
@@ -82,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629898208462</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2021年8月25日21:29:30">
+      <created>1629899224228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629899224229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,14 +106,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="2021年8月25日21:29:30" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Notifications" timestamp="1629898980035">
+    <state x="361" y="71" key="#Notifications" timestamp="1629899267567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Notifications/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1629898980035" />
-    <state x="335" y="5" key="CommitChangelistDialog2" timestamp="1629898970022">
+    <state x="361" y="71" key="#Notifications/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1629899267567" />
+    <state x="335" y="5" key="CommitChangelistDialog2" timestamp="1629899223395">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="335" y="5" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1629898970022" />
+    <state x="335" y="5" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1629899223395" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1629897946175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -109,10 +122,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="541" y="279" key="Github.CreatePullRequestDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1629899028189" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1629899156602">
+    <state x="270" y="55" key="SettingsEditor" timestamp="1629899337002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1629899156602" />
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1629899337002" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1629899560916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1629899560916" />
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629899589695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1629899589695" />
     <state x="178" y="22" key="new project wizard" timestamp="1629891578292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
